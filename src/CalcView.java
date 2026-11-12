@@ -1,5 +1,7 @@
+package src;
 import java.awt.*;
 import javax.swing.*;
+
 import java.awt.event.*;
 
 class CalcView extends JFrame {

@@ -1,3 +1,5 @@
+package src;
+
 public class CalcMVC {
     public static void main(String[] args) {
         CalcModel      model      = new CalcModel();

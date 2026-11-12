@@ -1,8 +1,9 @@
+package src;
 import java.math.BigDecimal;
 
-public class MultiplyOperation implements IOperation {
+public class AddOperation implements IOperation {
     @Override
     public BigDecimal execute(BigDecimal currentTotal, BigDecimal operand) {
-        return currentTotal.multiply(operand);
+        return currentTotal.add(operand);
     }
 }
