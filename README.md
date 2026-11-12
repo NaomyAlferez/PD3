@@ -8,4 +8,3 @@ Este repositorio contiene la implementación de una calculadora en Java utilizan
 * **[Diagrama de Clases](Diagrama.md):** Representación visual de la estructura del código.
 
 ## Video Explicativo
-[Inserta aquí el URL de tu video de máximo 5 minutos]
